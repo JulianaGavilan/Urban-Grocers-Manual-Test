@@ -1,12 +1,10 @@
 # Urban-Grocers-Manual-Test
 Urban Grocers es una aplicación en desarrollo que cuenta con una nueva función en la API que debemos probar. 
+[![Urban-Grocers.png](https://i.postimg.cc/L8sBsyGW/Urban-Grocers.png)](https://postimg.cc/crV89cx7)
 ### 1. Trabajar con los kits 
 la capacidad de agregar comestibles a un kit. El endpoint es POST /api/v1/kits/{id}/products. Hasta una cantidad maxima de 30 productos por kit (no las cantidades acumuladas de cada producto) 
 ### 2. Trabajar con los servicios de entrega
 la capacidad de comprobar si el servicio de entrega Order and Go está disponible y cuánto cuesta. El endpoint es POST /order-and-go/v1/delivery.
-
-[![Urban-Grocers.png](https://i.postimg.cc/L8sBsyGW/Urban-Grocers.png)](https://postimg.cc/crV89cx7)
-
 [![base-de-datos-Urban-Grocers.png](https://i.postimg.cc/Dy6PnVps/base-de-datos-Urban-Grocers.png)](https://postimg.cc/jLW741bd)
 
 ## 📊 Pruebas de API
