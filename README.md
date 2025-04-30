@@ -1,6 +1,7 @@
 # Urban-Grocers-Manual-Test
 Urban Grocers es una aplicación en desarrollo que cuenta con una nueva función en la API que debemos probar. 
 [![Urban-Grocers.png](https://i.postimg.cc/L8sBsyGW/Urban-Grocers.png)](https://postimg.cc/crV89cx7)
+
 <img decoding="async" 
      src="https://img.shields.io/badge/HTTP-E6E6FA?style=for-the-badge&logo=http&logoColor=white" 
      alt="http"/>
